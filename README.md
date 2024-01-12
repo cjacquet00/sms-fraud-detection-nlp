@@ -1,1 +1,4 @@
 # sms-fraud-detection-nlp
+
+SMS Spam Detection using TensorFlow
+This project implements a machine learning model for SMS spam detection using TensorFlow. The model is trained on a dataset containing labeled SMS messages, classifying them as either "spam" or "ham" (non-spam). The code provides a solution for building and training a neural network using TensorFlow and Keras, incorporating text preprocessing techniques such as tokenization and padding. The trained model can then be used to predict whether a given SMS message is spam or not. Additionally, the code includes a set of test messages to evaluate the model's accuracy. The README serves as a guide to set up the environment, train the model, and test its predictions. Users are encouraged to explore and modify the code for further experimentation and improvements.
